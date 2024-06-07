@@ -1,0 +1,13 @@
+../Core/Src/main.c:58:6:HAL_GPIO_EXTI_Callback	24	static
+../Core/Src/main.c:69:9:PassCode_Handler	48	static
+../Core/Src/main.c:132:6:UART_Handler	152	static
+../Core/Src/main.c:171:9:Sensor_Handler	8	static
+../Core/Src/main.c:197:14:IDLE_Handler	8	static
+../Core/Src/main.c:215:14:ARMED_Handler	16	static
+../Core/Src/main.c:238:14:TRIGGERED_Handler	8	static
+../Core/Src/main.c:264:5:main	16	static
+../Core/Src/main.c:329:6:SystemClock_Config	96	static
+../Core/Src/main.c:375:13:MX_ADC1_Init	48	static
+../Core/Src/main.c:441:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:473:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:531:6:Error_Handler	4	static
